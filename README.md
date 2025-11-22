@@ -1,2 +1,4 @@
 # UPBGE Video
- Simpe Python with video in a image texture
+Simple Python script to play videos in a image texture.
+
+Includes two versions with .blend files and also two videos *(as textures)*.
